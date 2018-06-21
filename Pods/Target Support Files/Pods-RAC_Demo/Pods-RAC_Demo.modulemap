@@ -1,0 +1,6 @@
+module Pods_RAC_Demo [system] {
+  umbrella header "Pods-RAC_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
